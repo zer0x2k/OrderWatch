@@ -11,7 +11,16 @@
     "files":[
       "www/**/*",
       "main.js"
-    ]
+    ],
+    "win":{
+      "publish": ["github"]
+    },
+    "mac":{
+      "publish": ["github"]
+    },
+    "linux":{
+      "publish": ["github"]
+    }
   },
   "scripts": {
     "clean-app": "rimraf www",
