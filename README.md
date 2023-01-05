@@ -19,8 +19,8 @@ npm run build
 npm run start-electron
 ```
 
-## Donate
-If you like it, buy me a coffee :)
+## Licence 
+It's free, buy me a coffee if you like :)
 
 BTC: bc1qkpsqfkmzqwshdy9g2lfa308l2k3h2x2fq5w83j  
 ETH: 0xE59dfD85aF47461A32536c596734e874009485f3  
