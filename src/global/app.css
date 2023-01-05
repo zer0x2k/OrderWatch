@@ -1,0 +1,23 @@
+/*
+  Global App CSS
+  ----------------------
+  Use this file for styles that should be applied to all components.
+  For example, "font-family" within the "body" selector is a CSS property
+  most apps will want applied to all components.
+
+  Any global CSS variables should also be applied here.
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind scrollbars;
+
+
+
+body{
+  @apply scrollbar-thin scrollbar-thumb-rounded scrollbar-track-gray-900 scrollbar-thumb-gray-800;
+}
+
+.app-scrollbar{
+  @apply scrollbar-thin scrollbar-thumb-rounded scrollbar-track-gray-900 scrollbar-thumb-gray-800;
+}

@@ -1,0 +1,7 @@
+.header-wrapper{
+    @apply flex pb-2 justify-between items-center;
+}
+
+.header-title{
+    @apply text-3xl font-extralight text-white/50;
+}
