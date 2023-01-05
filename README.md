@@ -3,7 +3,12 @@
 A Simple Visualization of KuCoins OrderBook with a Scatter Chart.  
 It uses the greate CCXT as the basis for data collection.
 
-The latest version of the Electron App can be found under Releases.
+## Market
+![](./.github/assets/img-market.png)
+## OrderBook
+![](./.github/assets/img-orderbook.png)
+
+The latest version for Win, Linux and Mac can be found under [Releases](https://github.com/zer0x2k/OrderWatch/releases).
 
 ## CORS
 Some exchanges block API traffic for third-party WebApps.  
